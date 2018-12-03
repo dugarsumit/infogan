@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_2017_06_14_22_38_20000.ckpt"
+all_model_checkpoint_paths: "mnist_2017_06_14_22_38_16000.ckpt"
+all_model_checkpoint_paths: "mnist_2017_06_14_22_38_17000.ckpt"
+all_model_checkpoint_paths: "mnist_2017_06_14_22_38_18000.ckpt"
+all_model_checkpoint_paths: "mnist_2017_06_14_22_38_19000.ckpt"
+all_model_checkpoint_paths: "mnist_2017_06_14_22_38_20000.ckpt"

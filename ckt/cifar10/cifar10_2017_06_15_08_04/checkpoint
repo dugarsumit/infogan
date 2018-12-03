@@ -1,0 +1,6 @@
+model_checkpoint_path: "cifar10_2017_06_15_08_04_12000.ckpt"
+all_model_checkpoint_paths: "cifar10_2017_06_15_08_04_8000.ckpt"
+all_model_checkpoint_paths: "cifar10_2017_06_15_08_04_9000.ckpt"
+all_model_checkpoint_paths: "cifar10_2017_06_15_08_04_10000.ckpt"
+all_model_checkpoint_paths: "cifar10_2017_06_15_08_04_11000.ckpt"
+all_model_checkpoint_paths: "cifar10_2017_06_15_08_04_12000.ckpt"

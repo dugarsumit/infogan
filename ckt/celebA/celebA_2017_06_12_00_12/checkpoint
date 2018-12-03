@@ -1,0 +1,6 @@
+model_checkpoint_path: "celebA_2017_06_12_00_12_5000.ckpt"
+all_model_checkpoint_paths: "celebA_2017_06_12_00_12_1000.ckpt"
+all_model_checkpoint_paths: "celebA_2017_06_12_00_12_2000.ckpt"
+all_model_checkpoint_paths: "celebA_2017_06_12_00_12_3000.ckpt"
+all_model_checkpoint_paths: "celebA_2017_06_12_00_12_4000.ckpt"
+all_model_checkpoint_paths: "celebA_2017_06_12_00_12_5000.ckpt"
