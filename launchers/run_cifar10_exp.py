@@ -1,8 +1,11 @@
-from infogan.helpers.distributions import Uniform, Categorical, Gaussian, MeanBernoulli
 import os
-from infogan.helpers.cifar10 import Cifar10
-from infogan.models.infogan_model import InfoGAN
-from infogan.trainers.infogan_trainer import InfoGANTrainer
+import sys
+sys.path.append(os.getcwd())
+
+from helpers.distributions import Uniform, Categorical, Gaussian, MeanBernoulli
+from helpers.cifar10 import Cifar10
+from models.infogan_model import InfoGAN
+from trainers.infogan_trainer import InfoGANTrainer
 import dateutil.tz
 import datetime
 

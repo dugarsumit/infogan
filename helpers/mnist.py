@@ -1,4 +1,4 @@
-from ..helpers.dataset import Dataset
+from helpers.dataset import Dataset
 from tensorflow.examples.tutorials import mnist
 import os
 import numpy as np

@@ -1,6 +1,6 @@
 import tensorflow as tf
-from ..helpers.layer_params import LayerParams
-from ..helpers.custom_layers import *
+from helpers.layer_params import LayerParams
+from helpers.custom_layers import *
 
 class Generator(object):
     def __init__(self, network_type, image_shape):

@@ -1,4 +1,4 @@
-from ..helpers.dataset import Dataset
+from helpers.dataset import Dataset
 import os
 import urllib
 import scipy.io as sio

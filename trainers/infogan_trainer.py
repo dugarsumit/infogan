@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 
-from ..helpers.distributions import Bernoulli, Gaussian, Categorical
+from helpers.distributions import Bernoulli, Gaussian, Categorical
 from progressbar import ETA, Bar, Percentage, ProgressBar
 import collections
 

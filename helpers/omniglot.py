@@ -1,4 +1,4 @@
-from ..helpers.dataset import Dataset
+from helpers.dataset import Dataset
 import os
 import scipy.io as sio
 from scipy.misc import imread, imresize

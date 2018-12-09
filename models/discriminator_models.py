@@ -1,6 +1,6 @@
 import tensorflow as tf
-from ..helpers.layer_params import LayerParams
-from ..helpers.custom_layers import *
+from helpers.layer_params import LayerParams
+from helpers.custom_layers import *
 
 
 class Discriminator(object):

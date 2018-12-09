@@ -1,7 +1,7 @@
 import tensorflow as tf
-from ..helpers.distributions import Product, Distribution, Gaussian, Categorical, Bernoulli
-from ..models.generator_models import Generator
-from ..models.discriminator_models import Discriminator
+from helpers.distributions import Product, Distribution, Gaussian, Categorical, Bernoulli
+from models.generator_models import Generator
+from models.discriminator_models import Discriminator
 
 class InfoGAN(object):
     """
